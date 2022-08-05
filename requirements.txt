@@ -1,0 +1,13 @@
+asgiref==3.5.2
+backports.zoneinfo==0.2.1
+Django==4.1
+django-cors-headers==3.13.0
+django-filter==22.1
+djangorestframework==3.13.1
+future==0.18.2
+psycopg2==2.9.3
+python-decouple==3.6
+pytz==2022.1
+serializers==0.2.4
+sqlparse==0.4.2
+tzdata==2022.1
